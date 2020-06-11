@@ -198,6 +198,7 @@ div{
        * element that contains the map. */
        #map {
         height: 300px;
-        width: 300px;        
+        width: 300px;
+        align-self: center;        
       }      
   
